@@ -22,28 +22,6 @@ This README provides an introduction to creating cloth simulations using the Clo
 
 5. **Play and Test**: Once configured, enter Play mode in the Unity Editor to see the cloth simulation in action. Test various scenarios and interactions to ensure the cloth behaves as expected.
 
-## Tips for Optimizing Cloth Simulation
-
-- **Reduce Complexity**: Use simpler mesh geometry for cloth objects to improve performance, especially if you have multiple cloth simulations running simultaneously.
-
-- **Adjust Quality Settings**: Unity provides settings to control the quality of cloth simulation. Lowering these settings can improve performance but may result in less accurate or realistic cloth behavior.
-
-- **Limit Collisions**: Minimize the number of colliders that the cloth interacts with to improve performance. Use simple colliders and adjust their settings to reduce computational overhead.
-
-- **Optimize Physics Settings**: Experiment with different physics settings such as solver iterations and timestep to balance performance and accuracy.
-
-Certainly! Below is a README file tailored to the cloth simulation project described by the provided code:
-
----
-
-# Cloth Simulation in Unity
-
-## Description
-
-This project provides a basic implementation of cloth simulation in Unity using the Cloth component. It includes scripts for adjusting cloth parameters, smoothing cloth movement, and optimizing the simulation for better performance.
-
-## Features
-
 - Adjust cloth parameters dynamically through code.
 - Smooth cloth movement using interpolation of vertex positions.
 - Optimize cloth simulation settings for improved performance.
