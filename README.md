@@ -71,6 +71,3 @@ clothMesh.RecalculateNormals();
 ## Conclusion
 
 Cloth simulation in Unity provides a powerful tool for creating realistic cloth-like behavior in your games and simulations. By following the steps outlined in this README and experimenting with different settings, you can achieve convincing cloth effects that enhance the visual fidelity and immersion of your projects.
-
----
-Feel free to customize and expand upon the provided information to suit your project's needs. If you encounter any issues or have specific questions about cloth simulation in Unity, refer to Unity's official documentation or seek assistance from the Unity community.
